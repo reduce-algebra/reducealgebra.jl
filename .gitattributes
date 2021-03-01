@@ -1,4 +1,5 @@
 # Disable GitHub Linguist
+*.jl linguist-vendored
 test/* linguist-vendored
 src/* linguist-vendored
 docs/* linguist-vendored
